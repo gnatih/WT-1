@@ -1,0 +1,21 @@
+- introduction
+
+  - web in general
+  - the internet = server <> browser
+  - browser
+  - html/css/js
+
+- tools we will use
+
+  - browser (chrome)
+  - code editor (vscode)
+  - git
+  - prototyping tools (figma)
+  - design tools (photoshop etc)
+
+- lets code our first HTML page
+
+  - structure of an HTML document
+  - head/body/footer?
+  - structure of a tag (tag, attribute and content <a href="">Link</a>)
+  - basic HTML tags (b, i, p, a, div, span, img, )
